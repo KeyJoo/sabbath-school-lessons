@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/Adventech/sabbath-school-lessons.svg?branch=master)](https://travis-ci.org/Adventech/sabbath-school-lessons)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVlad-Pavlychief%2Fsabbath-school-lessons.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVlad-Pavlychief%2Fsabbath-school-lessons?ref=badge_shield)
 
 
 # Sabbath School Lessons
@@ -247,3 +248,6 @@ When ran properly it will create the structure under `src` folder. For an exampl
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVlad-Pavlychief%2Fsabbath-school-lessons.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FVlad-Pavlychief%2Fsabbath-school-lessons?ref=badge_large)
